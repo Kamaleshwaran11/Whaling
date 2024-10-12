@@ -1,6 +1,7 @@
 
 # Whaling
 
+<img src=>
 ## What is Whaling?
 
 "Whaling" is a specific type of cyber attack that targets high-profile individuals within organizations, typically executives or senior management, with the aim of stealing sensitive information or financial assets. It is considered a form of phishing, but with a focus on individuals of significant authority or importance within a company.
